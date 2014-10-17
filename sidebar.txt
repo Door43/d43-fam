@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[fam:home|Door43 (fam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-fam|d43-fam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-fam/archive/master.zip|d43-fam.zip]]
+
+**Recent Changes**
+{{changes>ns = fam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/fam|Ethnologue data]]
+
